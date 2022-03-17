@@ -13,7 +13,7 @@ NAC1 - Python e OpenCV
 
 ## Diagrama do projeto
 
-<img src="/circulo.jpg" width="550">
+<img src="/circulo.png" width="550">
 
 
 
