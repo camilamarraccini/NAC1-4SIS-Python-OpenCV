@@ -19,5 +19,5 @@ NAC1 - Python e OpenCV
 
 ### Referências 
 
-* Jupyter Notebook / Aulas
+* Aulas - Jupyter Notebook
 * https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html
