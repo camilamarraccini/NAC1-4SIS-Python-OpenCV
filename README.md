@@ -1,8 +1,6 @@
 # NAC1 - Python e OpenCV
 
-**Nome dos alunos:** 
-
-83209 Camila Marraccini RM83209 e Carolina Naomi RM83166
+**Nome dos alunos:** Camila Marraccini RM83209 e Carolina Naomi RM83166
 
 **Turma:** 4SIS
 
