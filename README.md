@@ -2,8 +2,7 @@
 
 **Nome dos alunos:** 
 
-83209 Camila Marraccini
-83166 Carolina Naomi
+83209 Camila Marraccini RM83209 e Carolina Naomi RM83166
 
 **Turma:** 4SIS
 
